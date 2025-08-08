@@ -1,0 +1,37 @@
+{
+    "feeds": [
+        {
+            "name": "College Gate 3",
+            "video_source": "src/video3.mp4",
+            "type": "counter",
+            "status": "active",
+            "id": 0
+        },
+        {
+            "name": "College Gate 2",
+            "video_source": "src/video1.mp4",
+            "type": "counter",
+            "status": "active",
+            "id": 1
+        },
+        {
+            "name": "Hostel Building",
+            "video_source": "src/video3.mp4",
+            "type": "multicam",
+            "totalSlots": 75,
+            "availableSlots": 21,
+            "status": "active",
+            "id": 2
+        },
+        {
+            "name": "Architechture Building",
+            "video_source": "src/video1.mp4",
+            "type": "multicam",
+            "totalSlots": 45,
+            "availableSlots": 32,
+            "status": "active",
+            "id": 3
+        }
+    ],
+    "global_car_count": 47
+}
